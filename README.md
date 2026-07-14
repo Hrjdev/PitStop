@@ -2,8 +2,8 @@
 
 Bu proje, eğitim programı çerçevesinde elde edilen modern web geliştirme becerilerinin pratik bir uygulamasıdır. Katılımcıların öğrendikleri teorik kavramları bütüncül bir şekilde kullanarak hayallerindeki fikirleri hayata geçirmelerini hedefler. Temel amaç, modern web dünyasına girişi hızlandırmak ve eğitim sürecindeki kazanımları pekiştirmektir.
 
-##Giriş ekranı fonksiyonel bir kullanıcı adı - eğitim kapsamında olduğu için şifre doğrulaması yapmamaktadır. Herhangi bir e-posta yapısı ve şifre ile giriş yapılabilir.
-##Örn: 
+Giriş ekranı fonksiyonel bir kullanıcı adı - eğitim kapsamında olduğu için şifre doğrulaması yapmamaktadır. Herhangi bir e-posta yapısı ve şifre ile giriş yapılabilir.
+Örn: 
   E-posta Adresi : admin@pitstop.com
   Şifre : admin
   
